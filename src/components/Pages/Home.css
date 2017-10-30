@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 /*  Background fallback in case of IE8 & down, or in case video doens't load, such as with slower connections  */
-  background: #333;
+  background: rgb(255, 255, 255);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -13,6 +13,7 @@
   position: fixed;
   right: 0; 
   bottom: 0;
+  top: 0;
   min-width: 100%; 
   min-height: 100%;
   width: auto; 
@@ -21,26 +22,27 @@
 }
 
 /* These just style the content */
-article {
+/* article { */
 /*  just a fancy border  */
-  position: absolute;
+  /* position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   border: 10px solid rgba(255, 255, 255, 0.5);
   margin: 10px;
-}
+} */
 
 h1 {
   position: absolute;
   top: 60%;
   width: 100%;
-  font-size: 36px;
+  font-size: 100px;
   letter-spacing: 3px;
   color: rgb(44, 42, 42);
-  font-family: Oswald, sans-serif;
+  font-family: "Reenie Beanie", cursive;
   text-align: center;
+  font-weight: 500;
 }
 
 h1 span {

@@ -24,7 +24,7 @@ const Home = () => (
 
   <div className="body">
       <article>
-        <h1>Savannah Cirque <br /> <span>(Made by <a href="http://mattgross.io" target="_blank">Abby Levens</a></span></h1>
+        <h1>Savannah Cirque </h1>
       </article>
 
 

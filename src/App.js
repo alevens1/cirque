@@ -5,7 +5,9 @@ import Nav from "./components/Nav/Nav.js";
 import Home from "./components/Pages/Home";
 import About from "./components/Pages/About";
 import Schedule from "./components/Pages/Schedule/Schedule";
-import Pricing from "./components/Pages/Pricing";
+import Memberships from "./components/Pages/Pricing/Memberships";
+import Privates from "./components/Pages/Pricing/Privates";
+
 import Contact from "./components/Pages/Contact";
 //import Schedule from "../components/Schedule.js";
 // import Acro from "../components/Pages/Schedule/Acro";
@@ -39,8 +41,12 @@ const App = () => (
       <Route exact path="/schedule/pole" component={Pole} />
       <Route exact path="/schedule/silks" component={Silks} />
       <Route exact path="/schedule/yoga" component={Yoga} /> */}
-      <Route exact path="/pricing" component={Pricing} />
+      <Route exact path="/pricing" component={Memberships} />
+      <Route exact path="/pricing" component={Privates} />
       <Route exact path="/contact" component={Contact} />
+
+
+
       <Route exact path="/signin" component={SignIn} />
       <Route exact path="/signup" component={SignUp} />
    

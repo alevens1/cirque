@@ -1,7 +1,13 @@
-/* .home{
+.home{
     color: #e53935 red darken-1;
-}; */
+}
 
-/* #about{
+ #about{
     color: #e53935 red darken-1;
-} */
+}
+
+.Button, .Dropdown, .NavItem {
+    color: white;
+    border-style: solid;
+    border-color: #181616 #0000ff;
+}

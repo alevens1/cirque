@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Nav from "./components/Nav/Nav.js";
 import Home from "./components/Pages/Home";
 import About from "./components/Pages/About";
-// import Schedule from "./components/Pages/Schedule";
+import Schedule from "./components/Pages/Schedule/Schedule";
 import Pricing from "./components/Pages/Pricing";
 import Contact from "./components/Pages/Contact";
 //import Schedule from "../components/Schedule.js";
@@ -18,7 +18,7 @@ import Silks from "./components/Pages/Schedule/Silks";
 // import Slider from "./components/Slider/Slider";
 import SignIn from "./components/Pages/SignIn-SignUp/SignIn";
 import SignUp from "./components/Pages/SignIn-SignUp/SignUp";
-
+import API from "./util/API";
 
 // import './App.css';
 
@@ -31,7 +31,7 @@ const App = () => (
       <Nav />
       <Route exact path="/" component={Home} />
       <Route exact path="/about" component={About} />
-      {/* <Route exact path="/schedule" component={Schedule} /> */}
+      <Route exact path="/schedule" component={Schedule} />
       {/* <Route exact path="/schedule/acro" component={Acro} />
       <Route exact path="/schedule/circusfitness" component={CircusFitness} />
       <Route exact path="/schedule/hammock" component={Hammock} />

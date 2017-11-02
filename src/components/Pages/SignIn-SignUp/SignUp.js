@@ -1,10 +1,11 @@
 import React from "react";
 import Materialize from "react-materialize";
+import "./SignIn.css";
 
 const SignUp = () =>(
-  <div>
+  <div className="form-signin-holder">
     <div class="row">
-        <form class="col s12">
+        <form class="col s6">
           <div class="row">
             <div class="input-field col s6">
               <input placeholder="Placeholder" id="first_name" type="text" class="validate"/>

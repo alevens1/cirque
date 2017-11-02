@@ -2,7 +2,11 @@
   "name": "routing",
   "version": "0.1.0",
   "private": true,
+  "main": "server.js",
   "dependencies": {
+    "axios": "^0.17.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "materialize-css": "^0.100.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",

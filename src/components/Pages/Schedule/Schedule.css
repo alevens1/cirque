@@ -1,0 +1,22 @@
+.date-header {
+
+      
+        font-size: 25px;
+        text-align: center;
+        letter-spacing: 3px;
+        color: rgb(44, 42, 42);
+        font-weight: 500;
+      
+}
+.master-header {
+   
+    top: 60%;
+    width: 100%;
+    font-size: 100px;
+    letter-spacing: 3px;
+    color: rgb(44, 42, 42);
+    font-family: "Reenie Beanie", cursive;
+    text-align: center;
+    font-weight: 500;
+
+}

@@ -1,7 +1,60 @@
 /* .home{
     color: #e53935 red darken-1;
-}; */
+}
 
-/* #about{
+ #about{
     color: #e53935 red darken-1;
+} */
+
+/* .Button, .Dropdown, .NavItem {
+    color: white;
+    border-style: solid;
+    border-color: #181616 #0000ff;
+} */
+
+.home, .about, .contact, .signin, .signup {
+    background-color: white;
+    color:rgb(7, 7, 7);
+    border-style:solid;
+    border-radius: 6px;
+    border-color: #181616;
+    font-family: "Reenie Beanie", cursive;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.drop-button {
+    background-color: white;
+    color:rgb(7, 7, 7);
+    border-style:solid;
+    border-radius: 6px;
+    border-color: #181616;
+
+    font-family: "Reenie Beanie", cursive;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.nav-wrap{
+    margin:0 auto; 
+    width:100%; 
+    display:block
+}
+
+.btn:hover {
+    background-color:#A29B9B;
+    color: white;
+}
+nav ul a:hover {
+    background-color: rgba(0,0,0,0);
+}
+#element {
+    wrapper: none;
+}
+/* #nav-buttons {
+    background-color: white;
+    align: center;
+
 } */

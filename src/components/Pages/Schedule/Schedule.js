@@ -37,7 +37,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -48,12 +48,12 @@ const Schedule = props => (
             <td>FCF Pole Room</td>
             <td>
             <div className="col s1">
-              <a href="https://clients.mindbodyonline.com/classic/admmainclass?studioid=113289&tg=28&vt=&lvl=&stype=-7&view=day&trn=0&page=&catid=&prodid=&date=10%2f30%2f2017&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&tabID=7#an2" target="_blank" id="mind-body-link" class="btn-large waves-effect waves-light red">Book Now</a>
+              <a href="https://clients.mindbodyonline.com/classic/admmainclass?studioid=113289&tg=28&vt=&lvl=&stype=-7&view=day&trn=0&page=&catid=&prodid=&date=10%2f30%2f2017&classid=0&prodGroupId=&sSU=&optForwardingLink=&qParam=&tabID=7#an2" id="mind-body-link" class="btn-large waves-effect waves-light red">Book Now</a>
               </div>
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -69,7 +69,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -85,7 +85,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -101,7 +101,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -117,7 +117,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -133,7 +133,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -149,7 +149,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -165,7 +165,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -181,7 +181,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -197,7 +197,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -213,7 +213,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -229,7 +229,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -245,7 +245,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -261,7 +261,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -282,7 +282,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -298,7 +298,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -314,7 +314,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -330,7 +330,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -346,7 +346,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -362,7 +362,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -378,7 +378,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -394,7 +394,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -410,7 +410,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -426,7 +426,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -442,7 +442,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -458,7 +458,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -479,7 +479,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -496,7 +496,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -512,7 +512,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -528,7 +528,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -544,7 +544,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -560,7 +560,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -576,7 +576,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -592,7 +592,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -608,7 +608,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -624,7 +624,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -640,7 +640,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -656,7 +656,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -672,7 +672,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -688,7 +688,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -704,7 +704,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -725,7 +725,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -741,7 +741,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -757,7 +757,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -773,7 +773,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -789,7 +789,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -805,7 +805,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -824,7 +824,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -840,7 +840,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -856,7 +856,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -875,7 +875,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -891,7 +891,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -907,7 +907,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -923,7 +923,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -939,7 +939,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -955,7 +955,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -971,7 +971,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -987,7 +987,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1003,7 +1003,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1019,7 +1019,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1035,7 +1035,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1051,7 +1051,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1067,7 +1067,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1083,7 +1083,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1099,7 +1099,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1115,7 +1115,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1131,7 +1131,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1147,7 +1147,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1167,7 +1167,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1183,7 +1183,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr>
@@ -1199,7 +1199,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
           </tr> 
@@ -1217,7 +1217,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1233,7 +1233,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1249,7 +1249,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1265,7 +1265,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1281,7 +1281,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1297,7 +1297,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1313,7 +1313,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1329,7 +1329,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1345,7 +1345,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1361,7 +1361,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1377,7 +1377,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1393,7 +1393,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1412,7 +1412,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1428,7 +1428,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1444,7 +1444,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1460,7 +1460,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1476,7 +1476,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1492,7 +1492,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1508,7 +1508,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1524,7 +1524,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1540,7 +1540,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1556,7 +1556,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1572,7 +1572,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1588,7 +1588,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1604,7 +1604,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1620,7 +1620,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1636,7 +1636,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1655,7 +1655,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1671,7 +1671,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1687,7 +1687,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1703,7 +1703,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1719,7 +1719,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1735,7 +1735,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1751,7 +1751,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1767,7 +1767,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1783,7 +1783,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1799,7 +1799,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1815,7 +1815,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1831,7 +1831,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1850,7 +1850,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1867,7 +1867,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1883,7 +1883,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1899,7 +1899,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1915,7 +1915,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1931,7 +1931,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1947,7 +1947,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1963,7 +1963,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1979,7 +1979,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -1995,7 +1995,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2010,7 +2010,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2026,7 +2026,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2042,7 +2042,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2058,7 +2058,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2074,7 +2074,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2093,7 +2093,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2109,7 +2109,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2125,7 +2125,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2141,7 +2141,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2157,7 +2157,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2173,7 +2173,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2192,7 +2192,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2208,7 +2208,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>
@@ -2224,7 +2224,7 @@ const Schedule = props => (
             </td>
             <td>
             <div className="col s1">
-              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save</a>
+              <a href="https://itunes.apple.com/us/app/mindbody-book-fitness-classes/id689501356" id="mind-body-link" class="btn-large waves-effect waves-light red">Save for Later</a>
             </div>
             </td>
             </tr>

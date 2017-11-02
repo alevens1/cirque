@@ -1,4 +1,4 @@
-var mongoose = require("mongoose");
+
 // Dependencies
 // =============================================================
 var express = require("express");
@@ -8,8 +8,6 @@ var bodyParser = require("body-parser");
 // =============================================================
 var app = express();
 var PORT = process.env.PORT || 8080;
-
-mongoose.connect ("mongodb://heroku_tzzc3znp:srhvh3u0kfgmorf6pnqo43i2e2@ds113775.mlab.com:13775/heroku_tzzc3znp");
 
 // Sets up the Express app to handle data parsing
 app.use(bodyParser.json());
@@ -22,7 +20,7 @@ app.use(express.static("app/public"));
 
 // Routes
 // =============================================================
-// require("./routes/api/users.js")(app);
+require("./app/routes/api-routes.js")(app);
 
 // Starts the server to begin listening
 // =============================================================

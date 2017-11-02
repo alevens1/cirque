@@ -5,7 +5,7 @@ mongoose.Promise = global.Promise;
 // This file empties the Users collection and inserts the users below
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/userlist",
+  process.env.MONGODB_URI || "mongodb://heroku_tzzc3znp:Rebelheart15@ds113775.mlab.com:13775/heroku_tzzc3znp",
   {
     useMongoClient: true
   }
